@@ -1,6 +1,6 @@
 {
   "name": "smackbone-live",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "homepage": "https://github.com/Piot/smackbone-live",
   "authors": [
     "Peter Bjorklund <piot@hotmail.com>"
@@ -26,6 +26,6 @@
     "tests"
   ],
   "dependencies": {
-    "smackbone": "~0.2.17"
+    "smackbone": "~0.2.19"
   }
 }

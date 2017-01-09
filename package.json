@@ -1,6 +1,6 @@
 {
   "name": "smackbone-live",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Peter Bjorklund <piot@hotmail.com>",
   "description": "an object oriented live model framework",
   "keywords": [
@@ -37,7 +37,7 @@
     "grunt-mocha-test": ">=0.7.0",
     "mocha": ">=1.14.0",
     "should": "^4.1.0",
-    "smackbone": "^0.2.16"
+    "smackbone": "^0.2.19"
   },
   "license": "MIT"
 }
